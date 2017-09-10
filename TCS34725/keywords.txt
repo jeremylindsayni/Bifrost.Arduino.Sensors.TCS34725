@@ -1,0 +1,9 @@
+TCS34725	KEYWORD1
+begin	KEYWORD2
+Read	KEYWORD2
+ToString	KEYWORD2
+ToSerial	KEYWORD2
+GetRedComponent	KEYWORD2
+GetGreenComponent	KEYWORD2
+GetBlueComponent	KEYWORD2
+GetColorComponent	KEYWORD2
