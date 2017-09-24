@@ -58,5 +58,10 @@ int TCS34725::GetColorComponent(uint16_t color)
 {
     float c = 256 * color / _clear; 
 
+    if (c > 255)
+    {
+        c = 0;
+    }
+
     return (int)c;
 }
